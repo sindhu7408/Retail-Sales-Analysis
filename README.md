@@ -48,6 +48,26 @@ Prepared and reviewed the retail dataset for further analysis.
 - Used KPI cards, charts, and slicers.
 - Analyzed product performance and inventory levels.
 
+## 📊 Power BI Dashboard Preview
+
+### Page 1: Sales Overview
+
+This dashboard provides an overview of retail sales performance, sales trends, total orders, and top-performing products.
+
+![Sales Overview Dashboard](Sales%20Overview.png)
+
+### Page 2: Customer & Operations
+
+This dashboard focuses on customer purchasing behavior and operational performance.
+
+![Customer and Operations Dashboard](Customer%20%26%20Operations.png)
+
+### Page 3: Business Insights
+
+This dashboard presents key business insights to support data-driven decision-making.
+
+![Business Insights Dashboard](Business%20Insights.png)
+
 ## 📊 Key Analysis Areas
 - Sales performance and trends
 - Total sales and orders
